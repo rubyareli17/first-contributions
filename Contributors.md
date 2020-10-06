@@ -1,6 +1,7 @@
 # Contributors
 
 - [Saccha Agriel](https://github.com/sacchaagriel)
+- [Rubi Alvarado] (https://github.com/rubyareli17)
 - [Marisescu Cristian](https://github.com/cristian-marisescu)
 - [Gautam kumar](https://github.com/gautam08)
 - [Jack Kendall](https://github.com/jkendall327)
